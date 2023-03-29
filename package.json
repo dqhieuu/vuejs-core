@@ -1,7 +1,7 @@
 {
   "private": false,
-  "version": "3.3.0",
-  "packageManager": "pnpm@7.26.0",
+  "version": "3.3.0-alpha-5",
+  "name": "@hieudq/vue",
   "type": "module",
   "scripts": {
     "dev": "node scripts/dev.js",
